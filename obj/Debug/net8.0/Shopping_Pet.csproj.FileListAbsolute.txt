@@ -1,0 +1,8 @@
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.csproj.AssemblyReference.cache
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.AssemblyInfoInputs.cache
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.AssemblyInfo.cs
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.csproj.CoreCompileInputs.cache
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.MvcApplicationPartsAssemblyInfo.cache
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.RazorAssemblyInfo.cache
+D:\Shopping_Pet\obj\Debug\net8.0\Shopping_Pet.RazorAssemblyInfo.cs
